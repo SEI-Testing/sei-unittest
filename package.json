@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RBLU/sei-unittest.git"
+    "url": "git+https://github.com/SEI-Testing/sei-unittest.git"
   },
   "author": "Reto Blunschi <reto.blunschi@creagy.ch> (http://www.creagy.ch)",
   "license": "ISC",
@@ -22,3 +22,4 @@
   },
   "homepage": "https://github.com/RBLU/sei-unittest#readme"
 }
+∆
