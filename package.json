@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Excercise 1",
   "main": "fizzbuzz.js",
-  "dependencies": {},
+  "dependencies": {
+    "istanbul": "^0.4.5"
+  },
   "devDependencies": {
     "jasmine": "^3.1.0"
   },
