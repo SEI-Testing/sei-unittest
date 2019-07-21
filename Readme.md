@@ -11,6 +11,7 @@
 - install jasmine and nodemon globally    
     - npm install -g jasmine
     - npm install -g nodemon
+    - npm install -g istanbul
 
 ### installation
 - clone from github and get dependencies 

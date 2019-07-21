@@ -11,7 +11,8 @@
   },
   "scripts": {
     "testwatch": "nodemon --exec \"jasmine\" --watch src --watch spec",
-    "test": "jasmine"
+    "test": "jasmine",
+    "coverage": "istanbul cover jasmine"
   },
   "repository": {
     "type": "git",
