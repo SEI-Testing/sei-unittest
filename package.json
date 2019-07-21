@@ -7,7 +7,7 @@
     "istanbul": "^0.4.5"
   },
   "devDependencies": {
-    "jasmine": "^3.1.0"
+    "jasmine": "^3.4.0"
   },
   "scripts": {
     "testwatch": "nodemon --exec \"jasmine\" --watch src --watch spec",
